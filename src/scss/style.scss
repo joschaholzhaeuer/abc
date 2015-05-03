@@ -1,0 +1,35 @@
+/******************************************************************
+STYLESHEET: STYLE
+
+This is the place where every scss file gets imported.
+******************************************************************/
+
+/*********************
+INCLUDES
+*********************/
+@import "includes/normalize";
+
+
+/*********************
+BASIC STYLES
+*********************/
+@import "base";
+@import "layout";
+@import "modules";
+@import "states";
+
+
+/*********************
+TABLET STYLES
+*********************/
+@media only screen and (min-width: 481px) {
+  //@import "breakpoints/tablet";
+}
+
+
+/*********************
+DESKTOP STYLES
+*********************/
+@media only screen and (min-width: 981px) {
+  //@import "breakpoints/desktop";
+}
