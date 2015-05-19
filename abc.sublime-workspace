@@ -4,8 +4,44 @@
 		"selected_items":
 		[
 			[
+				"pa",
+				"paddingbottom"
+			],
+			[
 				"pad",
-				"padding"
+				"paddingtop"
+			],
+			[
+				"padd",
+				"paddingtop"
+			],
+			[
+				"tal",
+				"tal-l	text-align-last: left;"
+			],
+			[
+				"quote",
+				"quotemarks"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"va",
+				"va-m	vertical-align: middle;"
+			],
+			[
+				"portar",
+				"portrait"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"in",
+				"include"
 			],
 			[
 				"bgp",
@@ -146,10 +182,6 @@
 			[
 				"out",
 				"outline"
-			],
-			[
-				"padd",
-				"padding-left"
 			],
 			[
 				"c",
@@ -482,38 +514,6 @@
 			[
 				"show_",
 				"show_hide_nav"
-			],
-			[
-				"submenu",
-				"submenu_height"
-			],
-			[
-				"sub",
-				"submenu_height"
-			],
-			[
-				"tt",
-				"tt-n	text-transform: none;"
-			],
-			[
-				"clear",
-				"clearfix"
-			],
-			[
-				"back",
-				"back_to_top"
-			],
-			[
-				"preve",
-				"preventDefault"
-			],
-			[
-				"cp",
-				"cur-p	cursor: pointer;"
-			],
-			[
-				"toggl",
-				"toggle_upload_button"
 			]
 		]
 	},
@@ -523,15 +523,23 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3145,
+				"buffer_size": 4841,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scss/modules/box.scss",
+			"settings":
+			{
+				"buffer_size": 1102,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "src/scss/layout.scss",
 			"settings":
 			{
-				"buffer_size": 1010,
+				"buffer_size": 1432,
 				"line_ending": "Windows"
 			}
 		},
@@ -539,15 +547,7 @@
 			"file": "src/scss/variables.scss",
 			"settings":
 			{
-				"buffer_size": 748,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/scss/style.scss",
-			"settings":
-			{
-				"buffer_size": 872,
+				"buffer_size": 751,
 				"line_ending": "Windows"
 			}
 		},
@@ -555,7 +555,31 @@
 			"file": "src/scss/modules/heroimg.scss",
 			"settings":
 			{
-				"buffer_size": 438,
+				"buffer_size": 666,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/modules/links.scss",
+			"settings":
+			{
+				"buffer_size": 675,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/modules/cards.scss",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/base.scss",
+			"settings":
+			{
+				"buffer_size": 2524,
 				"line_ending": "Windows"
 			}
 		},
@@ -564,54 +588,6 @@
 			"settings":
 			{
 				"buffer_size": 308,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/scss/mixins.scss",
-			"settings":
-			{
-				"buffer_size": 425,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/scss/states.scss",
-			"settings":
-			{
-				"buffer_size": 276,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/scss/modules/links.scss",
-			"settings":
-			{
-				"buffer_size": 378,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/scss/modules.scss",
-			"settings":
-			{
-				"buffer_size": 273,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/scss/modules/cards.scss",
-			"settings":
-			{
-				"buffer_size": 458,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/scss/base.scss",
-			"settings":
-			{
-				"buffer_size": 2352,
 				"line_ending": "Windows"
 			}
 		}
@@ -629,7 +605,7 @@
 		[
 			[
 				"lorem",
-				"Snippet: lorem - Short paragraph"
+				"Snippet: lorem - Medium paragraph"
 			],
 			[
 				"install",
@@ -695,14 +671,16 @@
 	],
 	"file_history":
 	[
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/modules.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/typography.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/mixins.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/style.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states/querylarge.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states/querymedium.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/variables.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/modules/logo.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/Gruntfile.js",
-		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/base/text.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states/visibility.scss",
 		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/base/print.scss",
@@ -820,9 +798,7 @@
 		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/referat/_referat-tablet.scss",
 		"/C/Users/Joscha/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
 		"/C/Users/Joscha/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/CHANGELOG.md",
-		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/page-dashboard.php",
-		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/js/nav.js"
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/CHANGELOG.md"
 	],
 	"find":
 	{
@@ -867,6 +843,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"80",
+			"roboto",
 			"box-sizing: border-box",
 			"box",
 			"FONT_COLORS",
@@ -992,9 +970,7 @@
 			"#add-ref-alert",
 			"#add-ref-alert {",
 			"#add-ref-alert",
-			".add-ref-alert",
-			"add-ref-alert",
-			"add-feedback-alert"
+			".add-ref-alert"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1015,7 +991,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1024,15 +1000,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3145,
+						"buffer_size": 4841,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								910,
-								910
+								1523,
+								1523
 							]
 						],
 						"settings":
@@ -1042,7 +1018,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 264.0,
+						"translation.y": 686.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1050,19 +1026,48 @@
 				},
 				{
 					"buffer": 1,
-					"file": "src/scss/layout.scss",
+					"file": "src/scss/modules/box.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1010,
+						"buffer_size": 1102,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								334,
-								334
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/scss/layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1287,
+								1287
 							]
 						],
 						"settings":
@@ -1070,27 +1075,27 @@
 							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1676.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "src/scss/variables.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 748,
+						"buffer_size": 751,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								683,
-								683
+								629,
+								629
 							]
 						],
 						"settings":
@@ -1105,48 +1110,78 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "src/scss/style.scss",
+					"buffer": 4,
+					"file": "src/scss/modules/heroimg.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 872,
+						"buffer_size": 666,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								414,
-								414
+								473,
+								473
 							]
 						],
 						"settings":
 						{
+							"open_with_edit": true,
 							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "src/scss/modules/heroimg.scss",
+					"buffer": 5,
+					"file": "src/scss/modules/links.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 438,
+						"buffer_size": 675,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								366,
-								366
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/scss/modules/cards.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
 							]
 						],
 						"settings":
@@ -1162,7 +1197,37 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 7,
+					"file": "src/scss/base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
 					"file": "src/scss/states/links.scss",
 					"semi_transient": false,
 					"settings":
@@ -1187,180 +1252,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "src/scss/mixins.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 425,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								389,
-								389
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "src/scss/states.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 276,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								222,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "src/scss/modules/links.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 378,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								277,
-								277
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "src/scss/modules.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 273,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								196,
-								196
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "src/scss/modules/cards.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 458,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								429,
-								429
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "src/scss/base.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2352,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								633,
-								633
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 198.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
 					"type": "text"
 				}
 			]

@@ -1,0 +1,62 @@
+/******************************************************************
+STYLESHEET: BOXES
+
+******************************************************************/
+
+.box {
+    background-color: #fff;
+    text-align: center;
+    padding: 30px;
+
+    &-heading {
+        padding-bottom: 30px;
+    }
+
+    &-portrait {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    }
+
+    &-quote {
+        margin: 0;
+        padding-top: 30px;
+    }
+
+    &-text {
+        text-align: left;
+    }
+}
+
+@include tablet {
+    .box {
+        @include clearfix;
+        text-align: left;
+        padding-bottom: 50px;
+        font-weight: 300;
+
+        &-portraitwrapper {
+            float: left;
+        }
+
+        &-portrait {
+            width: 200px;
+            height: 200px;
+            border-radius: 0;
+        }
+
+        &-quote {
+            display: inline-block;
+            float: left;
+            width: 65%;
+            padding-left: 5%;
+        }
+
+        &-text {
+            float: left;
+            width: 48%;
+            margin-left: 4%;
+            font-size: 18px;
+        }
+    }
+}

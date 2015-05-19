@@ -19,6 +19,7 @@ STYLESHEET: CARDS
 
 @include tablet {
     .card {
+        margin-bottom: 0;
         margin-left: 5%;
         width: 30%;
     }
