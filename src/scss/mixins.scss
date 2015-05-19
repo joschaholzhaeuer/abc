@@ -1,0 +1,19 @@
+/******************************************************************
+STYLESHEET: MIXINS
+
+All project mixins are declared in this file.
+******************************************************************/
+
+
+// MEDIA_QUERIES
+@mixin tablet {
+    @media only screen and (min-width: #{$tablet-width}) {
+        @content;
+    }
+}
+
+@mixin desktop {
+    @media only screen and (min-width: #{$desktop-width}) {
+        @content;
+    }
+}

@@ -11,17 +11,20 @@ INCLUDES
 
 
 /*********************
-MIXINS
+MIXINS/VARIABLES
 *********************/
 @import "../../bourbon/bourbon";
+@import "variables";
+@import "mixins";
+@import "typography";
 
 
 /*********************
 BASIC STYLES
 *********************/
 @import "base";
-@import "layout";
 @import "modules";
+@import "layout";
 @import "states";
 
 

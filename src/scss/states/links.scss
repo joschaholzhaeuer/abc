@@ -1,0 +1,16 @@
+/******************************************************************
+STYLESHEET: LINKS
+
+******************************************************************/
+
+a {
+    color: $base-font-color;
+    font-weight: 700;
+
+    &:active,
+    &:focus,
+    &:visited,
+    &:hover {
+        color: $base-font-color;
+    }
+}

@@ -1,0 +1,1719 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bgp",
+				"bgpx	background-position-x"
+			],
+			[
+				"bg",
+				"bga	background-attachment"
+			],
+			[
+				"des",
+				"desktop"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"m",
+				"m	margin"
+			],
+			[
+				"query",
+				"querymedium.scss"
+			],
+			[
+				"states",
+				"states/"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"live",
+				"livereload"
+			],
+			[
+				"w",
+				"width	.width()"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"opac",
+				"opacity"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"ba",
+				"background-attachment"
+			],
+			[
+				"font",
+				"fontsize-12"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"pos-",
+				"pos-r	position: relative;"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"mouse",
+				"mouseout	.mouseout()"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"ta",
+				"ta-c	text-align: center;"
+			],
+			[
+				"fontsize-",
+				"fontsize-20"
+			],
+			[
+				"v",
+				"v	visibility: ${1:hidden};"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"src",
+				"src/"
+			],
+			[
+				"dist",
+				"dist/"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"f-l",
+				"fl-l	float: left;"
+			],
+			[
+				"bgs",
+				"bgsz-cv	background-size: cover;"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"mh",
+				"min-height"
+			],
+			[
+				"stick",
+				"sticky_com"
+			],
+			[
+				"sticky",
+				"sticky_com"
+			],
+			[
+				"sporttreff",
+				"sporttreff_inaktiv"
+			],
+			[
+				"sporttref",
+				"sporttreff_posts_all"
+			],
+			[
+				"term_",
+				"term_taxonomy_id"
+			],
+			[
+				"sporttre",
+				"sporttreff_inaktiv"
+			],
+			[
+				"term",
+				"term_id"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"initialize",
+				"initializeSlider"
+			],
+			[
+				"none",
+				"nonce"
+			],
+			[
+				"object",
+				"object_id"
+			],
+			[
+				"cale",
+				"calendar_ready"
+			],
+			[
+				"teilnehmer_ava",
+				"teilnehmer_avatar_lists"
+			],
+			[
+				"ass",
+				"addClass	.addClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"close",
+				"close_icon"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"comment_post",
+				"comment_postid"
+			],
+			[
+				"inar",
+				"in_array"
+			],
+			[
+				"parent",
+				"parents	.parents()"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"not",
+				"not-sticked"
+			],
+			[
+				"first",
+				"first_data"
+			],
+			[
+				"sti",
+				"sticky_post_ids"
+			],
+			[
+				"com_post",
+				"com_post_id"
+			],
+			[
+				"icon",
+				"icon_sticky"
+			],
+			[
+				"sticky_",
+				"sticky_com_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sticky_co",
+				"sticky_comments_a"
+			],
+			[
+				"stik",
+				"sticky_comment"
+			],
+			[
+				"autho",
+				"author_name"
+			],
+			[
+				"html",
+				"html_output"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"refchef",
+				"refchef_refs"
+			],
+			[
+				"refc",
+				"refchef_ref"
+			],
+			[
+				"ref",
+				"refchef_ref"
+			],
+			[
+				"spam",
+				"spam_comment"
+			],
+			[
+				"stic",
+				"sticky_comments"
+			],
+			[
+				"unstic",
+				"unstick_comments_ajax"
+			],
+			[
+				"that",
+				"that_icon"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"load_",
+				"load_sticky_comments"
+			],
+			[
+				"stikc",
+				"sticky_comments"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"c-p",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"this_el",
+				"this_element"
+			],
+			[
+				"clicked",
+				"clicked_element"
+			],
+			[
+				"insert",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"prev",
+				"prev"
+			],
+			[
+				"this",
+				"this_id"
+			],
+			[
+				"thi",
+				"this_postID"
+			],
+			[
+				"Fre",
+				"Freitag"
+			],
+			[
+				"Do",
+				"Donnerstag"
+			],
+			[
+				"post",
+				"postID"
+			],
+			[
+				"get_mem",
+				"get_members_die"
+			],
+			[
+				"chld",
+				"children"
+			],
+			[
+				"get_all",
+				"get_all_referate_die"
+			],
+			[
+				"get_current_user",
+				"get_current_user_id"
+			],
+			[
+				"refera",
+				"referate_info"
+			],
+			[
+				"ref_ids_",
+				"ref_ids_freizeit"
+			],
+			[
+				"reload",
+				"reload_ajax_parts"
+			],
+			[
+				"eleme",
+				"elementHeights"
+			],
+			[
+				"meintreff_comments_filter",
+				"meintreff_comments_filter_die"
+			],
+			[
+				"meintreff_comments_fit",
+				"meintreff_comments_filter_die"
+			],
+			[
+				"meintreff",
+				"meintreff_comments"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"fontsize",
+				"fontsize-16"
+			],
+			[
+				"login",
+				"loginout"
+			],
+			[
+				"home",
+				"home_url"
+			],
+			[
+				"prop",
+				"prop	.prop() - single"
+			],
+			[
+				"chek",
+				"checkbox"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"avatar",
+				"avatar_name"
+			],
+			[
+				"get",
+				"get_avatar_url"
+			],
+			[
+				"ena",
+				"enable_ajax"
+			],
+			[
+				"ajaxi",
+				"ajaxify_function"
+			],
+			[
+				"ajaxify",
+				"ajaxify.php"
+			],
+			[
+				"show_",
+				"show_hide_nav"
+			],
+			[
+				"submenu",
+				"submenu_height"
+			],
+			[
+				"sub",
+				"submenu_height"
+			],
+			[
+				"tt",
+				"tt-n	text-transform: none;"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"back",
+				"back_to_top"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"cp",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"toggl",
+				"toggle_upload_button"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scss/layout.scss",
+			"settings":
+			{
+				"buffer_size": 1010,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/variables.scss",
+			"settings":
+			{
+				"buffer_size": 748,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 872,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/modules/heroimg.scss",
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/states/links.scss",
+			"settings":
+			{
+				"buffer_size": 308,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/mixins.scss",
+			"settings":
+			{
+				"buffer_size": 425,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/states.scss",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/modules/links.scss",
+			"settings":
+			{
+				"buffer_size": 378,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/modules.scss",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/modules/cards.scss",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/base.scss",
+			"settings":
+			{
+				"buffer_size": 2352,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "lorem",
+		"selected_items":
+		[
+			[
+				"lorem",
+				"Snippet: lorem - Short paragraph"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"sublimeli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"hipster",
+				"Hipster Ipsum: Occupy"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/dist",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/includes",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/modules",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states"
+	],
+	"file_history":
+	[
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/typography.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/style.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states/querylarge.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states/querymedium.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/variables.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/modules/logo.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/Gruntfile.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/base/text.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states/visibility.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/base/print.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/base/lists.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/base/wrappers.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/states/mediaqueries.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/layout/header.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/layout/footer.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/abc/src/scss/layout/main.scss",
+		"/D/OneDrive/Studium/6. Semester/WebPrototyping/Aktuell/home.html",
+		"/D/OneDrive/Studium/6. Semester/WebPrototyping/start.html",
+		"/D/OneDrive/Studium/6. Semester/WebPrototyping/index.html",
+		"/D/OneDrive/Studium/6. Semester/WebPrototyping/home.html",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/js/main.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/style.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/dist/css/fonts/bebas_neue/font.css",
+		"/C/Users/Joscha/AppData/Local/Temp/Temp1_BebasNeuewebfont.zip/font.css",
+		"/C/Users/Joscha/AppData/Local/Temp/Temp1_BebasNeuewebfont.zip/index.html",
+		"/D/OneDrive/Workspace/Projekte/Mumbl/start.html",
+		"/D/OneDrive/Workspace/Projekte/Mumbl/filter_with_phone.html",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/Gruntfile.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/index_en.html",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/disclaimer.html",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/404.html",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/package.json",
+		"/D/OneDrive/Workspace/Design/Icons/iconfont/demo.html",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/partials/_variables.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/partials/_mixins.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/partials/_normalize.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/partials/_typography.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/partials/_mixins.scss",
+		"/C/Users/Joscha/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/breakpoints/_desktop.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/breakpoints/_tablet.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/_main.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/_mixins.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/_variables.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/basics/_variables.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/_tablet.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/_desktop.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/node_modules/grunt/README.md",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/node_modules/grunt-contrib-uglify/node_modules/lodash/internal/reEscape.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/node_modules/grunt/node_modules/colors/ReadMe.md",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/node_modules/grunt-contrib-uglify/node_modules/lodash/array/remove.js",
+		"/C/Users/Joscha/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/_typo.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/.gitignore",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/js/1.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/dist/css/style.css",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/base.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/portfolio/src/scss/typo.scss",
+		"/D/OneDrive/Studium/4. Semester/eLearning/Fragenkatalog.txt",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/css/style.css",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/1f33435182b03d931da4fac5d623794a941fd74b/_footer-tablet.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/1f33435182b03d931da4fac5d623794a941fd74b/_footer-desktop.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/footer/_footer-tablet.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/footer/_footer.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/footer.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/footer/_footer-desktop.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/1f33435182b03d931da4fac5d623794a941fd74b/_footer.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/piklist/parts/meta-boxes/termine.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/piklist/parts/meta-boxes/refleiter.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/page-testuser-init.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/dashboard/_dashboard.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/referat/_referat.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/js/referate.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/single-referate.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/archive-referate.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/comments-custom.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/css/backend.css",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/base/_base-tablet.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/functions.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/page-home.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/single.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/page-impressum.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/index.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/teilnahme.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/teilnahme-buchung.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/piklist/parts/meta-boxes/treff.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/referate-post-type.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/referat/_referat-desktop.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/dashboard/_dashboard-desktop.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/partials/_variables.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/partials/_typography.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/style.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/comments.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/home-hexagon-functions.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/piklist/parts/meta-boxes/allgemeines.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/js/meinQuery.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/meintreff-functions.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/dashboard/_dashboard-tablet.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/1d75e726f7ef20d308de187ae227ba9438c39e7c/_dashboard-tablet.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/plugins/wp-ajaxify-comments/js/wp-ajaxify-comments.min.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/nav-functions.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/page-meintreff.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/ajaxify.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/js/dashboard.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/1d75e726f7ef20d308de187ae227ba9438c39e7c/_dashboard-desktop.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/1d75e726f7ef20d308de187ae227ba9438c39e7c/_dashboard.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/319da620380da063cfcb61295b578c81aeebd14e/_referat-tablet.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/319da620380da063cfcb61295b578c81aeebd14e/_referat-desktop.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/319da620380da063cfcb61295b578c81aeebd14e/_referat.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/js/referat.js",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/readme.md",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/1a43db5bc1c46f86f03ad498e520e6a98933352b/_mixins.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/z-index-anordnung.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/user-avatar-info.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/.sass-cache/1a43db5bc1c46f86f03ad498e520e6a98933352b/_variables.scssc",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/base/_base.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/navi/_navi.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/navi/_navi-tablet.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/dashboard-functions.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/modules/_buttons.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/home/_home-desktop-1280.scss",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/scss/site_partials/referat/_referat-tablet.scss",
+		"/C/Users/Joscha/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Joscha/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/CHANGELOG.md",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/page-dashboard.php",
+		"/D/OneDrive/Workspace/MAMP/htdocs/reftreff/wp-content/themes/reftreff/library/js/nav.js"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\js",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\scss",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\scss",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library/scss",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\scss",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\js\\nav.js",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\scss\\",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\scss\\partials\\_typography.scss",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\scss\\partials\\_variables.scss",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\js\\header.js",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\scss",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\scss",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\plugins\\wp-user-avatar",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff\\library\\scss",
+			"D:\\OneDrive\\Workspace\\MAMP\\htdocs\\reftreff\\wp-content\\themes\\reftreff",
+			"D:\\OneDrive\\Workspace\\Sites\\reftreff\\wp-content\\themes\\reftreff\\",
+			"D:\\OneDrive\\Workspace\\Sites\\reftreff\\wp-content\\themes\\reftreff\\library\\js\\meinQuery.js",
+			"D:\\OneDrive\\Workspace\\Sites\\reftreff\\wordpress",
+			"D:\\OneDrive\\Workspace\\Sites\\reftreff\\wp-content\\themes\\reftreff"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"box-sizing: border-box",
+			"box",
+			"FONT_COLORS",
+			"FONTS",
+			"COLORS",
+			"right",
+			" class=\"nav-element\"",
+			"PRINT_STYLES",
+			"BASE_STYLES",
+			"fade-in",
+			"1.2",
+			"2",
+			"1",
+			"background",
+			"0.7s",
+			".1",
+			"2s",
+			"1.2",
+			"0.7",
+			"0.2",
+			"translateY",
+			"bounce",
+			"color",
+			"ransition",
+			"bounce",
+			"Work",
+			"a.btn",
+			"25",
+			"General",
+			"HELPER_CLASSES",
+			"content-wrapper",
+			"desk",
+			"content-wrapper",
+			"src",
+			"Welcome",
+			"Toolbox",
+			"Work",
+			"$font",
+			"button",
+			"span",
+			"Navigation",
+			"Welcome",
+			"14",
+			"}\n",
+			"text",
+			"src/",
+			"font-weight",
+			"animat",
+			"0",
+			"scale(1)",
+			"transf",
+			", background-color 0.5s",
+			"color-main_two",
+			"darkblue",
+			"$red",
+			"text",
+			"Welcome",
+			"About",
+			"portra",
+			"Welcome",
+			"About",
+			"lightred",
+			"cd-vertical-nav",
+			".no-touch ",
+			"cd-section",
+			"arrow",
+			"arro",
+			"cyan",
+			"30",
+			"<a",
+			" href=\"#\"",
+			"padding",
+			"p.te",
+			"padding-r",
+			"500x300",
+			"div",
+			"box-siz",
+			"icons",
+			"float-l ",
+			"div",
+			"span",
+			"icomoon",
+			"18",
+			"float",
+			"figure",
+			"Logo",
+			"logo",
+			"header",
+			"div",
+			"<nav>\n            </nav>\n            <h1>Welcome to my Portfolio!</h1>\n            <p class=\"subhead\">I'm Joscha Holzhäuer, Web Designer and Developer</p>",
+			"body",
+			"60",
+			"48",
+			"36",
+			"30",
+			"FONTS",
+			"CLEARFIX",
+			"h1",
+			"HELPER_CLASSES",
+			"BASE_STYLES",
+			"Font_Size",
+			"FONT_SIZE",
+			";",
+			"HEX_SHOW_MORE",
+			"user-text",
+			".user-text p",
+			"footer-column",
+			"HEX_SHOW_MORE",
+			"title",
+			"first",
+			"refleiter1",
+			"refleiter",
+			"referatsleiter",
+			"refc",
+			"refl",
+			"refle",
+			"text-upper",
+			"get_termine_list_HTML",
+			"DOCUMENT_READY_AJAX_CALLS",
+			"add-ref-alert",
+			"quit-feedback-alert",
+			".feedback-alert",
+			"#add-ref-alert",
+			"#add-ref-alert {",
+			"#add-ref-alert",
+			".add-ref-alert",
+			"add-ref-alert",
+			"add-feedback-alert"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$('.profile-field').hasClass('profile-opened')",
+			"[0]",
+			"mouseenter"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								910,
+								910
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/scss/layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/scss/variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								683,
+								683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/scss/modules/heroimg.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/scss/states/links.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/scss/mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/scss/states.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/scss/modules/links.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/scss/modules.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/scss/modules/cards.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/scss/base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "abc.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"footer.scss",
+				"library\\scss\\site_partials\\footer\\_footer.scss"
+			],
+			[
+				"footer",
+				"library\\scss\\site_partials\\footer\\_footer.scss"
+			],
+			[
+				"termin",
+				"piklist\\parts\\meta-boxes\\termine.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"home-h",
+				"home-hexagon-functions.php"
+			],
+			[
+				"referate",
+				"library\\referate-post-type.php"
+			],
+			[
+				"backen",
+				"library\\css\\backend.css"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"impress",
+				"page-impressum.php"
+			],
+			[
+				"fo",
+				"footer.php"
+			],
+			[
+				"teilnahme",
+				"teilnahme.php"
+			],
+			[
+				"termine.",
+				"piklist\\parts\\meta-boxes\\termine.php"
+			],
+			[
+				"commen",
+				"comments-custom.php"
+			],
+			[
+				"dashb",
+				"library\\scss\\site_partials\\dashboard\\_dashboard.scss"
+			],
+			[
+				"page-home",
+				"page-home.php"
+			],
+			[
+				"meintre",
+				"meintreff-functions.php"
+			],
+			[
+				"ajax",
+				"ajaxify.php"
+			],
+			[
+				"dash",
+				"library\\scss\\site_partials\\dashboard\\_dashboard-desktop.scss"
+			],
+			[
+				"page",
+				"page-meintreff.php"
+			],
+			[
+				"dashboard",
+				"library\\scss\\site_partials\\dashboard\\_dashboard-desktop.scss"
+			],
+			[
+				"comment",
+				"comments.php"
+			],
+			[
+				"custom",
+				"comments-custom.php"
+			],
+			[
+				"referat",
+				"library\\scss\\site_partials\\referat\\_referat.scss"
+			],
+			[
+				"mixins",
+				"library\\scss\\partials\\_mixins.scss"
+			],
+			[
+				"test",
+				"page-testuser-init.php"
+			],
+			[
+				"vari",
+				"library\\scss\\partials\\_variables.scss"
+			],
+			[
+				"variables",
+				".sass-cache\\1a43db5bc1c46f86f03ad498e520e6a98933352b\\_variables.scssc"
+			],
+			[
+				"testu",
+				"page-testuser-init.php"
+			],
+			[
+				"testuse",
+				"page-testuser-init.php"
+			],
+			[
+				"mix",
+				"library\\scss\\partials\\_mixins.scss"
+			],
+			[
+				"dashfun",
+				"dashboard-functions.php"
+			],
+			[
+				"single",
+				"single-referate.php"
+			],
+			[
+				"navphp",
+				"nav-functions.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"comments",
+				"comments-custom.php"
+			],
+			[
+				"dashbdes",
+				"library\\scss\\site_partials\\dashboard\\_dashboard-desktop.scss"
+			],
+			[
+				"varia",
+				"library\\scss\\partials\\_variables.scss"
+			],
+			[
+				"dashboa",
+				"dashboard-functions.php"
+			],
+			[
+				"teil",
+				"teilnahme.php"
+			],
+			[
+				"teiln",
+				"teilnahme-buchung.php"
+			],
+			[
+				"nav-f",
+				"nav-functions.php"
+			],
+			[
+				"teilnahm",
+				"teilnahme-buchung.php"
+			],
+			[
+				"dashboard-functions",
+				"dashboard-functions.php"
+			],
+			[
+				"install",
+				"library\\fonts\\Pluto_Neuzeit\\Start here files\\highlight.js"
+			],
+			[
+				"dashfunt",
+				"dashboard-functions.php"
+			],
+			[
+				"dashphp",
+				"page-dashboard.php"
+			],
+			[
+				"teilnea",
+				"teilnahme-buchung.php"
+			],
+			[
+				"teilna",
+				"teilnahme-buchung.php"
+			],
+			[
+				"aja",
+				"library\\js\\ajaxify.js"
+			],
+			[
+				"base",
+				"library\\scss\\site_partials\\base\\_base-tablet.scss"
+			],
+			[
+				"navi",
+				"library\\scss\\site_partials\\navi\\_navi-tablet.scss"
+			],
+			[
+				"dashbo",
+				"library\\scss\\site_partials\\dashboard\\_dashboard-desktop.scss"
+			],
+			[
+				"typo",
+				"library\\scss\\partials\\_typography.scss"
+			],
+			[
+				"meinqu",
+				"library\\js\\meinQuery.js"
+			],
+			[
+				"meinq",
+				"library\\js\\meinQuery.js"
+			],
+			[
+				"navi-d",
+				"library\\scss\\site_partials\\navi\\_navi-desktop.scss"
+			],
+			[
+				"home-desk",
+				"library\\scss\\site_partials\\home\\_home-desktop-1280.scss"
+			],
+			[
+				"var",
+				"library\\scss\\partials\\_variables.scss"
+			],
+			[
+				"navi-t",
+				"library\\scss\\site_partials\\navi\\_navi-tablet.scss"
+			],
+			[
+				"mein",
+				"reftreff\\library\\js\\meinQuery.js"
+			],
+			[
+				"wp-comments",
+				"wordpress\\wp-comments-post.php"
+			],
+			[
+				"plugin",
+				"wordpress\\wp-admin\\plugin-install.php"
+			],
+			[
+				"meintreff",
+				"wp-content\\themes\\reftreff\\page-meintreff-test.php"
+			],
+			[
+				"page-dashboard",
+				"wp-content\\themes\\reftreff\\page-dashboard.php"
+			],
+			[
+				"page-mein",
+				"wp-content\\themes\\reftreff\\page-meintreff-test.php"
+			],
+			[
+				"funtions",
+				"wp-content\\themes\\reftreff\\functions.php"
+			],
+			[
+				"single-ref",
+				"wp-content\\themes\\reftreff\\single-referate.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

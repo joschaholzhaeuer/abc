@@ -1,41 +1,8 @@
 /******************************************************************
 STYLESHEET: STATES
 
-    > VISIBILITY
-
 Different states of elements/modules are declared and styled here.
 ******************************************************************/
 
-/*********************
-VISIBILITY
-*********************/
-
-.is-hidden {
-    display: none !important;
-    visibility: hidden;
-}
-
-.is-invisible {
-    visibility: hidden;
-}
-
-.is-visuallyhidden {
-    border: 0;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-
-    &.is-focusable:active,
-    &.is-focusable:focus {
-        clip: auto;
-        height: auto;
-        margin: 0;
-        overflow: visible;
-        position: static;
-        width: auto;
-    }
-}
+@import "states/visibility";
+@import "states/links";

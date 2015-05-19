@@ -44,11 +44,23 @@ module.exports = function(grunt) {
     watch: {
       js: {
         files: ['<%= jshint.files %>'],
-        tasks: ['jshint', 'concat', 'uglify']
+        tasks: ['jshint', 'concat', 'uglify'],
+        options: {
+          livereload: true,
+        }
       },
       css: {
-        files: ['src/scss/*.scss', 'src/scss/modules/*.scss'],
-        tasks: ['sass']
+        files: ['src/scss/*.scss', 'src/scss/modules/*.scss', 'src/scss/states/*.scss'],
+        tasks: ['sass'],
+        options: {
+          livereload: true,
+        }
+      },
+      html: {
+        files: ['*.html'],
+        options: {
+          livereload: true,
+        }
       }
     }
   });

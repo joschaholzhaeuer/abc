@@ -1,0 +1,34 @@
+/******************************************************************
+STYLESHEET: VARIABLES
+
+    > COLORS
+    > FONT_COLORS
+    > FONTS
+
+This is the place for all variables.
+******************************************************************/
+
+
+// COLORS
+$green-light: #95c998;
+$purple-light: #64465f;
+$blue-light: #6ec6e5;
+$purple-dark: #393138;
+$grey-light: #f6f7fc;
+
+// FONT_COLORS
+$base-font-color: $purple-dark;
+
+// BACKGROUND_COLORS
+$dark-background-color: $purple-dark;
+$light-background-color: $grey-light;
+
+// FONTS
+$lato: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+$raleway: 'Raleway', 'Helvetica', 'Arial', 'sans-serif';
+$base-font-family: $lato;
+$heading-font-family: $raleway;
+
+// MEDIA_QUERIES
+$tablet-width: 821px;
+$desktop-width: 1361px;

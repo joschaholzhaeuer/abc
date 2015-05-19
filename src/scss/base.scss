@@ -13,9 +13,35 @@ BASE_STYLES
 *********************/
 
 html {
-    color: #222;
+    font-family: $base-font-family;
+    color: $base-font-color;
     font-size: 1em;
     line-height: 1.4;
+}
+
+body {
+    background-color: #fff;
+}
+
+div,
+header,
+footer,
+nav {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $heading-font-family;
+}
+
+nav {
+    font-family: $heading-font-family;
+    text-transform: uppercase;
 }
 
 ::-moz-selection {
@@ -35,6 +61,16 @@ hr {
     border-top: 1px solid #ccc;
     margin: 1em 0;
     padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    > li {
+        display: inline-block;
+    }
 }
 
 audio,
