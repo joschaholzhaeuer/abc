@@ -12,7 +12,7 @@ STYLESHEET: LINKS
         //width: 100%;
         //margin: 10px 0;
         margin: 25px 5px;
-        font-size: 14px;
+        @include fontsize-8;
     }
 
     &-anchor {
@@ -28,7 +28,7 @@ STYLESHEET: LINKS
         &-listitem {
             width: auto;
             margin: 25px 15px;
-            font-size: 16px;
+            @include fontsize-10;
         }
     }
 }

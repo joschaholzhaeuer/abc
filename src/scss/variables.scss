@@ -16,18 +16,26 @@ $blue-light: #6ec6e5;
 $purple-dark: #393138;
 $grey-light: #f6f7fc;
 
+// ALTERNATIVE COLORS
+$orange: #e98558;
+$green: #8AC06E;
+$yellow: #eFc555;
+$blue: #3987a2;
+$purple: #545671;
+
 // FONT_COLORS
 $base-font-color: $purple-dark;
 
 // BACKGROUND_COLORS
 $dark-background-color: $purple-dark;
+$medium-background-color: $orange;
 $light-background-color: $grey-light;
 
 // FONTS
-$lato: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
-$raleway: 'Raleway', 'Helvetica', 'Arial', 'sans-serif';
-$base-font-family: $lato;
-$heading-font-family: $raleway;
+$merriweathersans: 'Merriweather Sans', 'Helvetica', 'Arial', 'sans-serif';
+$merriweather: 'Merriweather', 'Helvetica', 'Arial', 'sans-serif';
+$base-font-family: $merriweather;
+$heading-font-family: $merriweathersans;
 
 // MEDIA_QUERIES
 $tablet-width: 821px;

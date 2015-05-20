@@ -2,6 +2,8 @@
 STYLESHEET: BASE
 
     > BASE_STYLES
+    > TYPOGRAPHY
+    > HIGHLIGHTING
     > PRINT_STYLES
 
 This is the place for all the default styling.
@@ -30,31 +32,6 @@ nav {
     box-sizing: border-box;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: $heading-font-family;
-}
-
-h1 {
-    font-size: 24px;
-}
-
-h2 {
-    font-size: 22px;
-}
-
-h3 {
-    font-size: 20px;
-}
-
-blockquote {
-    font-size: 22px;
-}
-
 nav {
     font-family: $heading-font-family;
     text-transform: uppercase;
@@ -62,35 +39,6 @@ nav {
 
 figure {
     margin: 0;
-}
-
-::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-::selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
-}
-
-ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-
-    > li {
-        display: inline-block;
-    }
 }
 
 audio,
@@ -119,14 +67,84 @@ textarea {
     padding: 0.2em 0;
 }
 
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
+
+/*********************
+TYPOGRAPHY
+*********************/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-family: $heading-font-family;
 }
 
-.clearfix:after {
-    clear: both;
+h1 {
+    @include fontsize-16;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+h2 {
+    @include fontsize-14;
+}
+
+h3 {
+    @include fontsize-12;
+}
+
+p {
+    font-weight: 400;
+    margin: 0;
+    padding: 30px 0 50px 0;
+}
+
+blockquote {
+    @include fontsize-12;
+    font-weight: 300;
+}
+
+@include tablet {
+    blockquote {
+    @include fontsize-14;
+    }
+}
+
+
+/*********************
+HIGHLIGHTING
+*********************/
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    > li {
+        display: inline-block;
+    }
 }
 
 
