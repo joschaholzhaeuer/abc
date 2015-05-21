@@ -37,7 +37,7 @@ SECTION
 
 @include desktop {
     .wrapper {
-        padding: 0 15%;
+        padding: 0 20%;
     }
 }
 
@@ -58,7 +58,7 @@ SECTION
 }
 @include desktop {
     .innerwrapper {
-        padding: 100px 15%;
+        padding: 100px 20%;
     }
 }
 
@@ -69,8 +69,13 @@ FOOTER
 ***************/
 
 footer {
-    height: 100px;
-    background-color: $purple-dark;
+    color: #fff;
+    background-image: url('../../src/img/berge.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-size: cover;
+    font-family: $heading-font-family;
 }
 
 
@@ -113,6 +118,16 @@ HELPER_CLASSES
 
     .paddingbottom {
         padding-bottom: 100px;
+    }
+}
+
+@include tablet {
+    .borderleft {
+        border-left: #fff solid 5px;
+    }
+
+    .borderright {
+        border-right: #fff solid 5px;
     }
 }
 

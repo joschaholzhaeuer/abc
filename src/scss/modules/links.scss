@@ -5,18 +5,21 @@ STYLESHEET: LINKS
 
 .links {
     text-align: center;
-    //position: absolute;
-    //right: 5%;
+    font-weight: 700;
 
     &-listitem {
-        //width: 100%;
-        //margin: 10px 0;
         margin: 25px 5px;
         @include fontsize-8;
     }
 
     &-anchor {
-        text-decoration: none;
+
+        &:link,
+        &:visited,
+        &:hover,
+        &:active {
+            color: $base-font-color;
+        }
     }
 }
 
@@ -35,6 +38,6 @@ STYLESHEET: LINKS
 
 @include desktop {
     .links {
-        right: 15%;
+        right: 20%;
     }
 }

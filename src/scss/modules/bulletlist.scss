@@ -7,6 +7,7 @@ STYLESHEET: BULLETLIST
     padding: 30px 0 50px 0;
 
     &-item {
+        @include fontsize-10;
         background-color: $grey-light;
         display: block;
         padding: 20px;
@@ -16,5 +17,19 @@ STYLESHEET: BULLETLIST
     &-em {
         padding-top: 5px;
         @include fontsize-8;
+    }
+}
+
+@include tablet {
+    .bulletlist {
+        @include clearfix;
+
+        &-item {
+            box-sizing: border-box;
+            float: left;
+            margin-top: 0;
+            width: 50%;
+            min-height: 106px;
+        }
     }
 }

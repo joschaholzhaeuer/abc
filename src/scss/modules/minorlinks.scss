@@ -1,0 +1,19 @@
+/******************************************************************
+STYLESHEET: LOGO
+
+******************************************************************/
+
+.minorlinks {
+    text-align: center;
+    @include fontsize-8;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
+}
+
+@include tablet {
+    .minorlinks {
+        text-align: left;
+        margin-bottom: 0;
+        @include fontsize-10;
+    }
+}

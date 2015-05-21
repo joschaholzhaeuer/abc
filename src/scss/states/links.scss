@@ -4,13 +4,15 @@ STYLESHEET: LINKS
 ******************************************************************/
 
 a {
+    text-decoration: none;
+/*
     color: $base-font-color;
-    font-weight: 700;
+    font-weight: 700; */
 
     &:active,
     &:focus,
     &:visited,
-    &:hover {
-        color: $base-font-color;
+    &:hover {/*
+        color: $base-font-color; */
     }
 }

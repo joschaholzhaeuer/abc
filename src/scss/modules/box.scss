@@ -7,7 +7,7 @@ STYLESHEET: BOXES
     text-align: center;
 
     &-heading {
-        padding-bottom: 30px;
+        padding-bottom: 50px;
     }
 
     &-portrait {
@@ -30,11 +30,27 @@ STYLESHEET: BOXES
 
     &-text {
         text-align: left;
+
+        &--half {
+
+            &.firstitem {
+                padding-bottom: 0;
+            }
+        }
     }
 }
 
 @include tablet {
     .box {
+
+        &-textwrapper {
+            position: relative;
+        }
+
+        .button {
+            position: absolute;
+            left: 0;
+        }
 
         &-portraitwrapper {
             position: relative;
@@ -58,19 +74,22 @@ STYLESHEET: BOXES
             text-align: left;
         }
 
+        &-textwrapper {
+            display: table;
+        }
+
         &-text {
             @include fontsize-12;
-        }
-    }
-}
 
-@include desktop {
-    .box {
+            &--half {
+                display: table-cell;
+                width: 50%;
 
-        &-text {
-            float: left;
-            width: 48%;
-            margin-left: 4%;
+                &.firstitem {
+                    padding-right: 30px;
+                    padding-bottom: 50px;
+                }
+            }
         }
     }
 }

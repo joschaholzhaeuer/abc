@@ -1,0 +1,27 @@
+/******************************************************************
+STYLESHEET: LOGO
+
+******************************************************************/
+
+.logowrapper {
+    padding-bottom: 50px;
+
+    .logo {
+        width: 200px;
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+@include tablet {
+    .logowrapper {
+        width: 33.33%;
+        float: right;
+        height: 150px;
+        text-align: right;
+
+        .logo {
+            display: inline-block;
+        }
+    }
+}

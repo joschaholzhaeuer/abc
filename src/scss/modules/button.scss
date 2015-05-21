@@ -1,0 +1,19 @@
+/******************************************************************
+STYLESHEET: BUTTON
+
+******************************************************************/
+
+.button {
+    color: #fff;
+    font-family: $heading-font-family;
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: $orange;
+    padding: 20px 40px;
+    border-radius: 2px;
+    border: none;
+
+    &:hover {
+        background-color: $orange-lighter;
+    }
+}
