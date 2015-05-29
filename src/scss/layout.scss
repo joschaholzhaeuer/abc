@@ -24,6 +24,14 @@ nav {
     }
 }
 
+@include tablet {
+
+    nav {
+        height: 125px;
+    }
+
+}
+
 
 /***************
 SECTION
@@ -70,12 +78,14 @@ FOOTER
 
 footer {
     color: #fff;
-    background-image: url('../../src/img/berge.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position-x: center;
-    background-size: cover;
+    background-color: $green;
+    //background-image: url('../../src/img/berge.jpg');
+    //background-repeat: no-repeat;
+    //background-position-x: center;
+    //background-size: cover;
     font-family: $heading-font-family;
+    position: relative;
+    z-index: 10;
 }
 
 

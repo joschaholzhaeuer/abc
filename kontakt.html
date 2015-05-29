@@ -1,6 +1,8 @@
 <!doctype html>
 <html class="no-js" lang="de">
+
     <head>
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Kontakt - Allgäu-Beratung-Coaching</title>
@@ -12,19 +14,34 @@
         <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
         <link rel="stylesheet" href="dist/css/style.css">
+
         <script src="dist/js/vendor/modernizr-2.8.3.min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js"></script>
+        <script>
+            function initialize() {
+                var mapCanvas = document.getElementById('map-canvas');
+                var mapOptions = {
+                center: new google.maps.LatLng(47.70073, 9.82869),
+                zoom: 16,
+                scrollwheel: false,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+                }
+                var map = new google.maps.Map(mapCanvas, mapOptions)
+            }
+            google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
+
     </head>
+
     <body>
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
 
         <header>
             <nav class="wrapper">
+                <img class ="nav-logo" src="src/img/logo_pastell.svg" alt="Logo abc">
                 <ul class="links">
                     <li class="links-listitem firstitem"><a class="links-anchor" href="index.html">Home</a></li>
                     <li class="links-listitem"><a class="links-anchor" href="#">Leistungsangebot</a></li>
-                    <li class="links-listitem lastitem"><a class="links-anchor" href="#">Kontakt</a></li>
+                    <li class="links-listitem lastitem"><a class="links-anchor is-active" href="#">Kontakt</a></li>
                 </ul>
             </nav>
             <figure class="heroimg">
@@ -55,8 +72,12 @@
             </div>
         </section>
 
-        <footer class="footer wrapper paddingtop">
-            <div class="clearfix">
+        <section>
+            <div id="map-canvas"></div>
+        </section>
+
+        <footer class="footer wrapper paddingtop clearfix">
+            <div class="clearfix paddingbottom">
                 <section class="linkblock paddingbottom">
                     <h3 class="linkblock-heading">Links</h3>
                     <ul class="linkblock-linkswrapper">
@@ -75,12 +96,11 @@
                     </ul>
                 </section>
                 <figure class="logowrapper">
-                    <img class="logo" src="src/img/logo_pastell_whitegreen.svg" alt="Allgäu-Beratung-Coaching Logo">
+                    <img class="logo" src="src/img/logo_pastell_white.svg" alt="Allgäu-Beratung-Coaching Logo">
                 </figure>
             </div>
             <div class="minorlinks lastitem">&copy; 2015 Albrecht Holzhäuer.</div>
         </footer>
-
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="dist/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>

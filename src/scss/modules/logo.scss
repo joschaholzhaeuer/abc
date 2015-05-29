@@ -3,6 +3,10 @@ STYLESHEET: LOGO
 
 ******************************************************************/
 
+.nav-logo {
+    display: none;
+}
+
 .logowrapper {
     padding-bottom: 50px;
 
@@ -14,6 +18,14 @@ STYLESHEET: LOGO
 }
 
 @include tablet {
+
+    .nav-logo {
+        display: inline-block;
+        width: 180px;
+        position: absolute;
+        left: 5%;
+    }
+
     .logowrapper {
         width: 33.33%;
         float: right;
@@ -24,4 +36,12 @@ STYLESHEET: LOGO
             display: inline-block;
         }
     }
+}
+
+@include desktop {
+
+    .nav-logo {
+        left: 20%;
+    }
+
 }

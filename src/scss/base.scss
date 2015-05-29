@@ -25,10 +25,9 @@ body {
     background-color: #fff;
 }
 
-div,
-header,
-footer,
-nav {
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 
@@ -137,7 +136,7 @@ hr {
     padding: 0;
 }
 
-ul {
+ul, ol {
     margin: 0;
     padding: 0;
     list-style-type: none;

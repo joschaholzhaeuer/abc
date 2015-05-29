@@ -30,13 +30,9 @@ STYLESHEET: BOXES
 
     &-text {
         text-align: left;
-
-        &--half {
-
-            &.firstitem {
-                padding-bottom: 0;
-            }
-        }
+        max-width: 800px;
+        max-width: rem(800);
+        margin: 0 auto;
     }
 }
 
@@ -74,22 +70,8 @@ STYLESHEET: BOXES
             text-align: left;
         }
 
-        &-textwrapper {
-            display: table;
-        }
-
         &-text {
             @include fontsize-12;
-
-            &--half {
-                display: table-cell;
-                width: 50%;
-
-                &.firstitem {
-                    padding-right: 30px;
-                    padding-bottom: 50px;
-                }
-            }
         }
     }
 }

@@ -11,16 +11,6 @@ STYLESHEET: LINKS
         margin: 25px 5px;
         @include fontsize-8;
     }
-
-    &-anchor {
-
-        &:link,
-        &:visited,
-        &:hover,
-        &:active {
-            color: $base-font-color;
-        }
-    }
 }
 
 @include tablet {
@@ -30,7 +20,7 @@ STYLESHEET: LINKS
 
         &-listitem {
             width: auto;
-            margin: 25px 15px;
+            margin: 35px 20px;
             @include fontsize-10;
         }
     }

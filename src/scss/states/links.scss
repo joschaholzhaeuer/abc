@@ -5,14 +5,34 @@ STYLESHEET: LINKS
 
 a {
     text-decoration: none;
-/*
-    color: $base-font-color;
-    font-weight: 700; */
 
-    &:active,
-    &:focus,
     &:visited,
-    &:hover {/*
+    &:hover,
+    &:focus,
+    &:active {/*
         color: $base-font-color; */
+    }
+}
+
+.links {
+
+    &-anchor {
+
+        &:link,
+        &:visited {
+            color: $base-font-color;
+        }
+
+        &:hover,
+        &:focus,
+        &:active {
+            color: $green;
+        }
+    }
+
+    .is-active {
+        color: $green;
+        //padding-bottom: 10px;
+        //border-bottom: 5px solid $green;
     }
 }
