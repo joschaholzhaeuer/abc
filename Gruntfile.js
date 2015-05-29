@@ -1,5 +1,11 @@
 module.exports = function(grunt) {
 
+  var cssSources = [
+    'src/scss/*.scss',
+    'src/scss/modules/*.scss',
+    'src/scss/states/*.scss'
+  ];
+
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     concat: {
@@ -50,7 +56,7 @@ module.exports = function(grunt) {
         }
       },
       css: {
-        files: ['src/scss/*.scss', 'src/scss/modules/*.scss', 'src/scss/states/*.scss'],
+        files: cssSources,
         tasks: ['sass'],
         options: {
           livereload: true,
