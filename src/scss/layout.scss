@@ -53,20 +53,36 @@ SECTION
     @include clearfix;
     padding: 50px 5%;
 
-    &.colorswitch {
+    &.colorswitch--orange {
         color: #fff;
         background-color: $orange;
+    }
+
+    &.colorswitch--grey {
+        background-color: $grey-light;
+    }
+
+    &--less {
+        padding: 30px 5%;
     }
 }
 
 @include tablet {
     .innerwrapper {
         padding: 70px 5%;
+
+        &--less {
+            padding: 50px 5%;
+        }
     }
 }
 @include desktop {
     .innerwrapper {
         padding: 100px 20%;
+
+        &--less {
+            padding: 50px 20%;
+        }
     }
 }
 
@@ -78,7 +94,7 @@ FOOTER
 
 footer {
     color: #fff;
-    background-color: $green;
+    background-color: $purple-dark;
     //background-image: url('../../src/img/berge.jpg');
     //background-repeat: no-repeat;
     //background-position-x: center;
@@ -149,4 +165,16 @@ HELPER_CLASSES
 
 .clearfix:after {
     clear: both;
+}
+
+.shortened {
+    width: 64.5%;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
 }

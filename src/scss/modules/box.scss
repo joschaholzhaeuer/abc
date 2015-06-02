@@ -26,6 +26,15 @@ STYLESHEET: BOXES
     &-quote {
         margin: 0;
         padding: 30px 0 50px 0;
+
+        &--short {
+            padding: 20px 0 30px 0;
+        }
+    }
+
+    &-quoteauthor {
+        font-family: $heading-font-family;
+        font-weight: 700;
     }
 
     &-text {
@@ -63,7 +72,7 @@ STYLESHEET: BOXES
 
         &-caption {
             position: absolute;
-            right: 50%;
+            right: 45%;
             top: 50%;
             margin-top: -30px;
             margin-right: -180px;

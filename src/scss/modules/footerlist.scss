@@ -1,0 +1,19 @@
+/******************************************************************
+STYLESHEET: FOOTERLIST
+
+******************************************************************/
+
+.footerlist {
+    border: 5px solid $grey-light;
+    border-top: 0;
+
+    &-heading {
+    }
+
+    &-list {
+        font-family: $heading-font-family;
+    }
+
+    &-listitem {
+    }
+}

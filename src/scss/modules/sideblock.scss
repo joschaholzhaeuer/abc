@@ -1,0 +1,25 @@
+/******************************************************************
+STYLESHEET: SIDEBLOCK
+
+******************************************************************/
+
+.sideblock {
+    color: #fff;
+    background-color: $green;
+    float: right;
+    width: 31%;
+    padding: 30px 50px;
+
+    &-heading {
+        padding-bottom: 30px;
+    }
+
+    &-list {
+        font-family: $heading-font-family;
+    }
+
+    &-listitem {
+        display: block;
+        padding: 5px 0;
+    }
+}

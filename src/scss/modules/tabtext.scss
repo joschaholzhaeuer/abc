@@ -1,0 +1,31 @@
+/******************************************************************
+STYLESHEET: FOOTERLIST
+
+******************************************************************/
+
+.tabtext {
+    @include clearfix;
+
+    &-heading {
+        float: left;
+    }
+
+    &-text {
+        float: left;
+    }
+}
+
+@include tablet {
+    .tabtext {
+        border: 5px solid $grey-light;
+
+        &-heading {
+            width: 33.3%;
+        }
+
+        &-text {
+            padding-top: 0;
+            width: 66.6%;
+        }
+    }
+}
