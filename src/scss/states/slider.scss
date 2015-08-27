@@ -1,0 +1,26 @@
+/******************************************************************
+STYLESHEET: SLIDER
+
+******************************************************************/
+
+.arrow-left,
+.arrow-right {
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.arrow-left {
+
+    &:hover {
+        border-right: 20px solid #fff;
+    }
+}
+
+.arrow-right {
+
+    &:hover {
+        border-left: 20px solid #fff;
+    }
+}

@@ -5,9 +5,16 @@ STYLESHEET: BOXES
 
 .box {
     text-align: center;
+    max-width: 800px;
+    max-width: rem(800);
+    margin: 0 auto;
 
     &-heading {
         padding-bottom: 50px;
+    }
+
+    &-portraitwrapper {
+        margin-top: 30px;
     }
 
     &-portrait {
@@ -19,16 +26,26 @@ STYLESHEET: BOXES
     }
 
     &-caption {
-        padding-top: 10px;
+        padding-top: 30px;
         font-family: $heading-font-family;
     }
 
     &-quote {
         margin: 0;
-        padding: 30px 0 50px 0;
+        padding: 10px 0 20px 0;
+        @include fontsize-12;
+        font-style: italic;
 
         &--short {
-            padding: 20px 0 30px 0;
+            padding: 20px 0 15px 0;
+        }
+
+        &--first {
+            min-height: 140px;
+        }
+
+        &--second {
+            min-height: 140px;
         }
     }
 
@@ -38,10 +55,18 @@ STYLESHEET: BOXES
     }
 
     &-text {
+        font-weight: 300;
         text-align: left;
-        max-width: 800px;
-        max-width: rem(800);
-        margin: 0 auto;
+        @include fontsize-11;
+        padding-top: 10px;
+
+        &--multiple {
+            padding-bottom: 100px;
+        }
+
+        &--centered {
+            text-align: center;
+        }
     }
 }
 
@@ -59,24 +84,38 @@ STYLESHEET: BOXES
 
         &-portraitwrapper {
             position: relative;
-            height: 120px;
+            height: 150px;
+            margin-top: 50px;
         }
 
         &-portrait {
             position: absolute;
             left: 50%;
-            margin-left: -160px;
-            width: 120px;
-            height: 120px;
+            margin-left: -240px;
+            width: 150px;
+            height: 150px;
         }
 
         &-caption {
             position: absolute;
             right: 45%;
             top: 50%;
-            margin-top: -30px;
-            margin-right: -180px;
+            margin-top: -80px;
+            margin-right: -205px;
             text-align: left;
+            @include fontsize-14;
+        }
+
+        &-quote {
+            @include fontsize-14;
+
+            &--short {
+                @include fontsize-16;
+            }
+        }
+
+        &-quoteauthor {
+            @include fontsize-14;
         }
 
         &-text {

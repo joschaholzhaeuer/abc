@@ -8,6 +8,7 @@ STYLESHEET: LOGO
 }
 
 .logowrapper {
+    padding-top: 100px;
     padding-bottom: 50px;
 
     .logo {
@@ -24,17 +25,6 @@ STYLESHEET: LOGO
         width: 180px;
         position: absolute;
         left: 5%;
-    }
-
-    .logowrapper {
-        width: 33.33%;
-        float: right;
-        height: 150px;
-        text-align: right;
-
-        .logo {
-            display: inline-block;
-        }
     }
 }
 

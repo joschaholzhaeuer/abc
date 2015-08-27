@@ -11,8 +11,35 @@ STYLESHEET: FORM
         padding-bottom: 50px;
     }
 
+    &-error {
+        background-color: $purple;
+        border-radius: 2px;
+        min-height: 70px;
+        text-align: center;
+        padding: 25px;
+        color: #fff;
+        font-weight: 700;
+        font-family: $heading-font-family;
+        display: none;
+    }
+
+    &-success {
+        padding: 100px 25px;
+        text-align: center;
+    }
+
+    &-successbutton {
+        @include fontsize-8;
+    }
+
+    &-hint {
+        text-align: right;
+        color: $purple-light;
+    }
+
     &-wrapper {
         @include clearfix;
+        padding-top: 30px;
     }
 
     &-half {
@@ -23,11 +50,11 @@ STYLESHEET: FORM
 
     &-label {
         cursor: text;
-        position: absolute;
+        //position: absolute;
         display: inline-block;
-        margin-left: 5%;
-        margin-top: 25px;
-        color: $grey-light;
+        //margin-left: 5%;
+        //margin-top: 25px;
+        color: $purple-light;
         font-family: $heading-font-family;
 
         &--left {
@@ -41,11 +68,14 @@ STYLESHEET: FORM
         padding-left: 4%;
         margin-bottom: 30px;
         border-radius: 2px;
-        border: 5px solid $grey-light;
+        border: 5px solid $purple-light;
+        padding-right: 25px;
     }
 
     &-input--big {
-        min-height: 370px;
+        min-height: 436px;
+        max-height: 800px;
+        padding-top: 20px;
     }
 
     .button {
@@ -62,11 +92,15 @@ STYLESHEET: FORM
         }
 
         &-label {
-            margin-left: 9%;
+            margin-left: 5%;
 
             &--left {
-                margin-left: 4%;
+                margin-left: 0;
             }
+        }
+
+        &-successbutton {
+            @include fontsize-10;
         }
 
         &-input {

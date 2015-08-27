@@ -4,6 +4,7 @@ STYLESHEET: LINKS
 ******************************************************************/
 
 .links {
+    padding-top: 20px;
     text-align: center;
     font-weight: 700;
 
@@ -15,19 +16,11 @@ STYLESHEET: LINKS
 
 @include tablet {
     .links {
-        position: absolute;
-        right: 5%;
 
         &-listitem {
             width: auto;
-            margin: 35px 20px;
+            margin: 35px 40px;
             @include fontsize-10;
         }
-    }
-}
-
-@include desktop {
-    .links {
-        right: 20%;
     }
 }

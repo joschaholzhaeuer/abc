@@ -82,14 +82,26 @@ h6 {
 }
 
 h1 {
-    @include fontsize-16;
+    @include fontsize-12;
     text-transform: uppercase;
     font-weight: 700;
     text-align: center;
 }
 
+@include tablet {
+    h1 {
+        @include fontsize-14;
+    }
+}
+
 h2 {
-    @include fontsize-14;
+    @include fontsize-12;
+}
+
+@include tablet {
+    h2 {
+        @include fontsize-14;
+    }
 }
 
 h3 {
@@ -100,6 +112,19 @@ p {
     font-weight: 400;
     margin: 0;
     padding: 30px 0 50px 0;
+}
+
+em {
+    font-family: $base-font-family;
+    @include fontsize-11;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@include tablet {
+    em {
+        @include fontsize-12;
+    }
 }
 
 blockquote {

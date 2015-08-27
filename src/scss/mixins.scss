@@ -53,6 +53,10 @@ FONTS
 @mixin fontsize-10 {
   @include font-size(10/10);
 }
+
+@mixin fontsize-11 {
+  @include font-size(11/10);
+}
 @mixin fontsize-12 {
   @include font-size(12/10);
 }

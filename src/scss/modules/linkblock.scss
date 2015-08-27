@@ -5,32 +5,30 @@ STYLESHEET: LINKBLOCK
 
 .linkblock {
     text-align: center;
+    display: block;
 
     &-heading {
         padding-bottom: 10px;
     }
 
     &-listitem {
+        text-transform: uppercase;
+        font-weight: 700;
         display: block;
+        padding-bottom: 20px;
     }
 
-    &-anchor {
-        color: #fff;
-
-        &:active,
-        &:focus,
-        &:visited,
-        &:hover {
-            color: #fff;
-        }
+    &-address {
+        display: block;
     }
 }
 
 @include tablet {
     .linkblock {
-        text-align: left;
-        width: 33.33%;
-        float: left;
-        height: 150px;
+
+        &-listitem {
+            margin-right: 30px;
+            display: inline-block;
+        }
     }
 }

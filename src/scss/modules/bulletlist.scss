@@ -5,7 +5,7 @@ STYLESHEET: BULLETLIST
 
 .bulletlist {
     display: table;
-    padding: 30px 0 50px 0;
+    padding-bottom: 50px;
     text-align: left;
 
     &-item {
@@ -14,16 +14,27 @@ STYLESHEET: BULLETLIST
         background-color: $grey-light;
         display: block;
         margin: 10px 0;
+        border-radius: 2px;
+    }
+
+    &-heading {
+        text-align: left;
+        padding-bottom: 20px;
+
+        &--inline {
+            padding-top: 50px;
+        }
     }
 
     &-number {
         color: #fff;
-        font-family: $heading-font-family;
         display: table-cell;
-        padding: 20px;
+        padding: 5px;
         vertical-align: middle;
         background-color: $purple;
         margin-right: 5px;
+        @include fontsize-18;
+        border-radius: 2px 0 0 2px;
     }
 
     &-text {
@@ -47,17 +58,22 @@ STYLESHEET: BULLETLIST
         &-item {
             float: left;
             margin-top: 0;
-            width: 50%;
+            width: 100%;
+            @include fontsize-11;
         }
 
         &-number {
-            height: 110px;
-            height: rem(110);
+            height: 80px;
+            height: rem(80);
         }
 
         &-text {
-            height: 110px;
-            height: rem(110);
+            height: 80px;
+            height: rem(80);
+        }
+
+        &-em {
+            @include fontsize-10;
         }
     }
 }

@@ -8,12 +8,12 @@ STYLESHEET: BUTTON
     font-family: $heading-font-family;
     text-transform: uppercase;
     font-weight: 700;
-    background-color: $green;
+    background-color: $purple;
     padding: 20px 40px;
     border-radius: 2px;
     border: none;
 
     &:hover {
-        background-color: $purple-dark;
+        background-color: $green;
     }
 }

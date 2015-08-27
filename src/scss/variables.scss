@@ -11,20 +11,20 @@ This is the place for all variables.
 
 // COLORS
 $green-light: #95c998;
-$purple-light: #64465f;
+$purple-light: #8d8fad;
 $blue-light: #6ec6e5;
 $purple-dark: #393138;
 $grey-light: #e1e2e5;
 
 // ALTERNATIVE COLORS
 $orange: #f38156;
-$green: #86C56E;
+$green: #86CA77;
 $yellow: #eFc555;
 $blue: #3987a2;
 $purple: #545671;
 
 // FONT_COLORS
-$base-font-color: $purple-dark;
+$base-font-color: $purple;
 
 // BACKGROUND_COLORS
 $dark-background-color: $purple;
@@ -33,8 +33,8 @@ $light-background-color: $grey-light;
 
 // FONTS
 $merriweathersans: 'Merriweather Sans', 'Helvetica', 'Arial', 'sans-serif';
-$merriweather: 'Merriweather', 'Helvetica', 'Arial', 'sans-serif';
-$base-font-family: $merriweather;
+$lato: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+$base-font-family: $lato;
 $heading-font-family: $merriweathersans;
 
 // MEDIA_QUERIES

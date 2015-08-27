@@ -5,34 +5,61 @@ STYLESHEET: LINKS
 
 a {
     text-decoration: none;
+    color: #fff;
 
-    &:visited,
+    &:link,
+    &:visited {
+        color: #fff;
+    }
+
     &:hover,
     &:focus,
-    &:active {/*
-        color: $base-font-color; */
+    &:active {
+        border-bottom: 2px solid #fff;
     }
 }
 
 .links {
 
     &-anchor {
+        color: #fff;
 
         &:link,
         &:visited {
-            color: $base-font-color;
+            color: #fff;
         }
 
         &:hover,
         &:focus,
         &:active {
-            color: $green;
+            border-bottom: 2px solid #fff;
         }
     }
 
     .is-active {
-        color: $green;
-        //padding-bottom: 10px;
-        //border-bottom: 5px solid $green;
+        border-bottom: 2px solid #fff;
+    }
+}
+
+.linkblock {
+
+    &-anchor {
+        color: $green-light;
+
+        &:link,
+        &:visited {
+            color: $green-light;
+        }
+
+        &:hover,
+        &:focus,
+        &:active {
+            color: $green-light;
+            border-bottom: 2px solid $green-light;
+        }
+    }
+
+    .is-active {
+        border-bottom: 2px solid $green-light;
     }
 }
